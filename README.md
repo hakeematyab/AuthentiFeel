@@ -8,10 +8,6 @@
 # AuthentiFeel – Review Sentiment Analysis and Authenticity Detection System, 
 ## Atyab Hakeem, Atreyo Das
 
-<!-- SOCIALS -->
-<a href = "https://www.linkedin.com/in/hakeem-atyab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "mailto: hakeematyab.mobile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 **AuthentiFeel** is a sentiment analysis and authenticity detection system that leverages traditional machine learning algorithms to provide insightful and reliable analysis of product reviews. In an era where AI-generated content is increasingly common, discerning the authenticity of user feedback is as crucial as understanding its sentiment. This system is designed to meet these needs efficiently without the complexity and computational overhead associated with deep neural networks.
 
 ## Why AuthentiFeel?
@@ -27,4 +23,9 @@
 - **Businesses**: Understand true consumer sentiments and detect fake reviews efficiently, enhancing market performance analysis without heavy computational investments.
 
 **AuthentiFeel** aims to bring reliability and clarity to review analysis, empowering users with genuine insights and a more transparent market view. Simple yet effective, it's an essential tool in the toolkit of any consumer or business seeking truth in data.
+
+<!-- SOCIALS -->
+<a href = "https://www.linkedin.com/in/hakeem-atyab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto: hakeematyab.mobile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
