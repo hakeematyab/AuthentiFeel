@@ -5,10 +5,11 @@
   </a>
 </div>
 
-# AuthentiFeel – Review Sentiment Analysis and Authenticity Detection System, 
-## Atyab Hakeem, Atreyo Das
+# [AuthentiFeel – Review Sentiment Analysis and Authenticity Detection System](https://github.com/hakeematyab/AuthentiFeel/blob/main/documents/authentifeel_project_report.pdf)
+### Atyab Hakeem, Atreyo Das
 
 **AuthentiFeel** is a sentiment analysis and authenticity detection system that leverages traditional machine learning algorithms to provide insightful and reliable analysis of product reviews. In an era where AI-generated content is increasingly common, discerning the authenticity of user feedback is as crucial as understanding its sentiment. This system is designed to meet these needs efficiently without the complexity and computational overhead associated with deep neural networks.
+#### For more details [read this.](https://github.com/hakeematyab/AuthentiFeel/blob/main/documents/authentifeel_project_report.pdf)
 
 ## Why AuthentiFeel?
 
