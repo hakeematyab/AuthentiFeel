@@ -32,7 +32,6 @@ For sentiment analysis, accuracy was the metric of concern and for authenticity 
 - **Sentiment Analysis Accuracy:** 87%
 - **Authenticity Detection Precision** 95.6%
 
-These metrics indicate the effectiveness of the caption generator in producing relevant and accurate captions.
 <!-- SOCIALS -->
 ## Socials
 ### Atyab Hakeem
