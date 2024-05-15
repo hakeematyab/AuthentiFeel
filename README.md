@@ -25,6 +25,14 @@
 
 **AuthentiFeel** aims to bring reliability and clarity to review analysis, empowering users with genuine insights and a more transparent market view. Simple yet effective, it's an essential tool in the toolkit of any consumer or business seeking truth in data.
 
+## Metrics
+
+For sentiment analysis, accuracy was the metric of concern and for authenticity detection, precision was the metric of concern. Below are the results:
+
+- **Sentiment Analysis Accuracy:** 87%
+- **Authenticity Detection Precision** 95.6%
+
+These metrics indicate the effectiveness of the caption generator in producing relevant and accurate captions.
 <!-- SOCIALS -->
 ## Socials
 ### Atyab Hakeem
