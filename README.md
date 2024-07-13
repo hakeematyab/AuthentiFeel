@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="[https://github.com/Intuitive-Brilliance/Megatron-ChatBot](https://github.com/Intuitive-Brilliance/Megatron-ChatBot)">
+  <a href="[https://github.com/hakeematyab/AuthentiFeel](https://github.com/hakeematyab/AuthentiFeel)">
     <img src="https://github.com/hakeematyab/AuthentiFeel/assets/88573121/8d684867-832c-4f07-9083-59bc1e3ecd5d" alt="Logo" width="250" height="250">
   </a>
 </div>
